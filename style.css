@@ -10,16 +10,14 @@ body {
 }
 header {
 	margin: 25px;
+	background-attachment: fixed;
 	background-image: ("images/jokullsarlon.jpg");
 	background-repeat: no-repeat;
-}
-	h1 {
-		background-color: #42727F;
-		color: #E5E0C2;
-		font-size: 60px;
-		font-weight: bolder;
-		text-align: left;
-		text-transform: uppercase;
+	color: #E5E0C2;
+	font-size: 60px;
+	font-weight: bolder;
+	text-align: left;
+	text-transform: uppercase;
 }
 #learning {
 	text-align: left;
