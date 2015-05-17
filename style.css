@@ -11,14 +11,14 @@ body {
 h1 {	
 	position: absolute;
 		top: 200px;
-		left: 0;
+		right: 20px;
 		width: 300px;
-		height: 50px;
+		height: 0px;
 		margin: 0 auto;
 	color: #E5E0C2;
 	font-size: 40px;
 	font-weight: bolder;
-	margin: 25px;
+	margin-bottom: 150px;
 	text-transform: uppercase;
 }
 #learning {
@@ -27,6 +27,7 @@ h1 {
 #slogan {
 	background-color: #42727F;
 	border-style: inset;
+	border-color: #FFF9D8;
 	color: #FFF9D8;
 	font-size: 25px;
 	font-style: italic;
