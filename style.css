@@ -2,10 +2,7 @@ body {
 	background: #213940;
 	color: #FFF9D8;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	margin-bottom: ;
-	margin-left: ;
-	margin-right: ;
-	margin-top:;
+	margin: 25px;
 	text-align: center;
 }
 #headerimage {
@@ -21,19 +18,20 @@ h1 {
 	color: #E5E0C2;
 	font-size: 40px;
 	font-weight: bolder;
+	margin: 25px;
 	text-transform: uppercase;
 }
 #learning {
 	text-align: left;
 }
 #slogan {
-	background-color: #76CCE5;
+	background-color: #42727F;
 	border-style: inset;
 	color: #FFF9D8;
-	font-size: 40px;
+	font-size: 25px;
 	font-style: italic;
 	text-transform: uppercase;
 }
 a {
-	color: #42727F;
+	color: #76CCE5;
 }
