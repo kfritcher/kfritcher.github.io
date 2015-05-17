@@ -8,23 +8,26 @@ body {
 	margin-top:;
 	text-align: center;
 }
-h1 {
-	background-color: #42727F;
-	color: #E5E0C2;
-	font-size: 60px;
-	font-weight: bolder;
-	margin-bottom: 100px;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 100px;
-	text-transform: uppercase;
+header {
+	margin: 25px;
+	background-image: ("images/jokullsarlon.jpg");
+	background-repeat: no-repeat;
+}
+	h1 {
+		background-color: #42727F;
+		color: #E5E0C2;
+		font-size: 60px;
+		font-weight: bolder;
+		text-align: left;
+		text-transform: uppercase;
 }
 #learning {
 	text-align: left;
 }
 #slogan {
-	background: #76CCE5;
+	background-color: #76CCE5;
 	color: #FFF9D8;
+	font-size: 40px;
 	font-style: italic;
 	text-transform: uppercase;
 }
