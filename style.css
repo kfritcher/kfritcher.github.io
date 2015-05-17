@@ -26,8 +26,12 @@ header {
 }
 #slogan {
 	background-color: #76CCE5;
+	border-style: inset;
 	color: #FFF9D8;
 	font-size: 40px;
 	font-style: italic;
 	text-transform: uppercase;
+}
+a {
+	color: #42727F;
 }
