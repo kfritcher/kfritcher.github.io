@@ -1,61 +1,15 @@
-html {
-	background: url("images/iceland.jpg");
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	background-repeat: no-repeat;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-}
-body {
-	
-	color: black;
-	text-align: center;
-}
+
 #header {
-	background-color: #261B00;
-	border-color: black;
-	border-style: inset;
-	box-shadow: 7px 7px 5px #1F1E1C;
-	color: #FFF7E7;
-	margin-left: 0px;
-	margin-right: 500px;
-	opacity: 0.6;
-	text-align: center;
-	text-transform: uppercase;
-}
-#subtitle {
-	font-size: 20px;
-	font-style: italic;
-	left-margin: 0;
-}
-#body {
-	background-color: #261B00;
-	border-color: #403E3A;
-	border-style: solid;
-	box-shadow: 10px 10px 5px #1F1E1C;
-	color: #E8DEC7;
-	margin-top: 300px;
-	margin-bottom: 10px;
-	margin-left: 100px;
-	margin-right: 100px;
-	opacity: 0.9;
-}
-#slogan {
-	margin-left: 200px;
-	margin-right: 200px;
-	font-style: italic;
+	background: #ffffff url("images/eyeballs.jpg") repeat-x;
+	height: 360px;
 }
 ul {
-	background-color: #1C3606;
-	border-style: inset;
-	border-color: #1C3606;
-	color: #FFF7E7;
-	margin-left: 300px;
-	margin-right: 300px;
-	padding-left: 100px;
-	text-align: left;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
-a {
-	color: #5E666E;
+li {
+	display: inline;
+	float: left;
 }
+
