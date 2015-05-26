@@ -1,10 +1,28 @@
+#header {
+	text-align: center;
+}
+h3 {
+	font-style: italic;
+}
 ul {
+	background-color: black;
+	color: white;
 	list-style-type: none;
+	word-spacing: 20px;
 	margin: 0;
-	padding: 0;
+	padding: 40px;
+	display: -webkit-flex; /* Safari */
+	-webkit-align-items: center; /* Safari 7.0+ */
+	display: flex;
+	align-items: center;
 }
 li {
 	display: inline;
 	float: left;
+	padding: 0.5em;
+	min-width: 50px;
+}
+#body {
+	
 }
 
