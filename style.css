@@ -1,55 +1,15 @@
-#header {
-	text-align: center;
-	background-image: url(images/smaug.jpg);
-	background-repeat: no-repeat;
-	background-position: left;
-	border-style: solid;
-}
-h1 {
-	font-family: 'Handlee', cursive;
-	font-size: 45px;
-	margin-bottom: 0;
-}
-h3 {
-	font-family: 'Handlee', cursive;
-	font-size: 30px;
-	font-style: italic;
-	margin-bottom: 55px;
-}
-ul {
-	background-color: black;
-	color: white;
-	list-style-type: none;
-	word-spacing: 20px;
-	margin: 0;
-	padding: 40px;
-	display: -webkit-flex; /* Safari */
-	-webkit-align-items: center; /* Safari 7.0+ */
-	display: flex;
-	align-items: center;
-}
-li {
-	display: inline;
-	float: left;
-	padding: 0.5em;
-	min-width: 50px;
-	font-family: 'Hind', sans-serif;
-}
-#body {
-	font-family: 'Vidaloka', serif;
-	text-indent: 30px;
-	padding: 10px 50px 5px 50px;
-
-}
-h2 {
-	font-family: 'Hind', sans-serif;
-	font-size: 25px;
-	text-align: center;
-	bottom-margin: 0;
-}
-h4 {
-	font-family: 'Handlee', cursive;
-	font-size: 20px;
+header {
+	padding: 100px 300px 100px 300px;
+	border: 20px;
+	border-style: ridge;
+	border-color: #00333B;
+	margin: 10px 10px 0 10px;
+	background-color: #00333B;
 	text-align: center;
 }
-
+nav {
+	padding: 100px 100px 100px 100px;
+	border: 0 20px 0 20px;
+	margin: 0 10px 0 10px;
+	background-color: #FFA359;
+}
