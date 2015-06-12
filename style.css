@@ -1,4 +1,6 @@
 header {
+	height: 80px;
+	width: 550px;
 	padding: 100px 300px 100px 300px;
 	border: 20px;
 	border-style: ridge;
@@ -8,8 +10,18 @@ header {
 	text-align: center;
 }
 nav {
-	padding: 100px 100px 100px 100px;
+	height: 0px;
+	width: 900px;
+	padding: 20px 20px 20px 20px;
 	border: 0 20px 0 20px;
+	border-style: ridge;
+	border-color: #B24F00;
 	margin: 0 10px 0 10px;
 	background-color: #FFA359;
+}
+li {
+	width: 600px;
+	float: left;
+	margin: 20px 10px 20px 10px;
+	display: inline-block;
 }
