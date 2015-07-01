@@ -48,10 +48,32 @@ h3 {
 #gallery {
 	width: 930px;
 	padding: 30px 0px 30px 0px;
-	float: right;
 }
-.photos {
+.img {
 	width: 280px;
 	padding: 10px;
+	float: right;
+}
+.title {
+	width: 320px;
+	height: 100px;
+}
+#photobooth {
+	width: 900px;
+	border-width: 5px;
+	border-color: black;
+}
+#zoenamaste {
+	float: left;
+}
+#zoefruit {
+	float: right;
+}
+footer {
+	clear: both;
+	background-image: url("images/zoesunries.jpg");
+	background-repeat: no-repeat;
+	height: 200px;
+	width: 960px;
 }
 
