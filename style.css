@@ -86,9 +86,11 @@ footer {
   nav {
     float: none;
     width: auto;
+    text-align: center;
   }
   .navitem {
     float: none;
+    display: block;
   }
   .things {
     width: auto;
